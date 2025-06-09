@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <button className="btn btn-accent"></button>
+    <button className="btn btn-accent">Test</button>
   );
 }
