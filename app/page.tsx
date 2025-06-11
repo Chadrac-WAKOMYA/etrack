@@ -9,7 +9,7 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl font-bold text-center">
               Prenez le contrôle <br /> de vos finances
             </h1>
-            <div className="choice"></div>
+            {/* <div className="choice"></div> */}
           </div>
         </div>
       </div> 
