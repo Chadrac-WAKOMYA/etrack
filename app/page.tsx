@@ -14,7 +14,7 @@ export default function Home() {
             </p>
             <div>
               <a href={""} className="btn btn-sm md:btn-md btn-outline btn-accent"> {""} Se connecter</a>              
-              <a href={""} className="btn btn-sm md:btn-md ml-2 btn-accent"> {""} Se connecter</a>
+              <a href={""} className="btn btn-sm md:btn-md ml-2 btn-accent"> {""} S'inscrire</a>
             </div>
           </div>
         </div>
