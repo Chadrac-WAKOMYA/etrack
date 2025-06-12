@@ -9,7 +9,10 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl font-bold text-center">
               Prenez le contrôle <br /> de vos finances
             </h1>
-            {/* <div className="choice"></div> */}
+            <p className="py-6 text-gray-800 text-center">
+              Suivez vos budgets et vos dépenses <br /> en toute simplicité avec notre applicaton intuitive !
+            </p>
+            
           </div>
         </div>
       </div> 
