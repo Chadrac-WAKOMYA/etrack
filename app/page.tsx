@@ -12,7 +12,7 @@ export default function Home() {
             <p className="py-6 text-gray-800 text-center">
               Suivez vos budgets et vos dépenses <br /> en toute simplicité avec notre applicaton intuitive !
             </p>
-            <div>
+            <div className="flex items-center justify-center">
               <a href={""} className="btn btn-sm md:btn-md btn-outline btn-accent"> {""} Se connecter</a>              
               <a href={""} className="btn btn-sm md:btn-md ml-2 btn-accent"> {""} S'inscrire</a>
             </div>
