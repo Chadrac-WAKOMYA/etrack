@@ -14,7 +14,7 @@ export default function Home() {
             </p>
             <div className="flex items-center justify-center">
               <a href={"/sign-in"} className="btn btn-sm md:btn-md btn-outline btn-accent"> Se connecter</a>              
-              <a href={"/sign-up"} className="btn btn-sm md:btn-md ml-2 btn-accent">S'inscrire</a>
+              {/* <a href={"/sign-up"} className="btn btn-sm md:btn-md ml-2 btn-accent">S'inscrire</a> */}
             </div>
           </div>
         </div>
